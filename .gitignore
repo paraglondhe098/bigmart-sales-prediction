@@ -1,11 +1,11 @@
-/Data
+/data
 new_df.csv
-Train.csv
+data/raw/Train.csv
 preprocessing.pkl
 preprocessing_y.pkl
 tmp.ipynb
 /.idea
-/Artifacts
+/artifacts
 optim_models.txt
 project.py
 prj.ipynb
